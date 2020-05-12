@@ -1,9 +1,9 @@
 body {
     background: #87CEEB;
     background-image: url("https://inn.spb.ru/images/500/DSC100556052.jpg");
-    background-size: auto 120vh;
+    background-size: auto 100vh;
     font-family: Arial;
-    height: 50vh;
+    height: 100vh;
 }
 
 .menu {
