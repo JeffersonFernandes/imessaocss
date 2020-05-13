@@ -8,7 +8,7 @@
 
 body {
     background: #87CEEB;
-    background-image: url('../img/fundo.jpg');
+    background-image: url('../img/creditos\ -\ wallpapers4u.org-fundo.jpg');
     background-size: auto auto;
     font-family: Arial;
     height: 100vh;
@@ -33,7 +33,7 @@ body {
 header {
     height: 50vh;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     /* so funciona por causa do flex */
     align-items: center;
     /* so funciona por causa do flex */
@@ -47,6 +47,7 @@ section {
 
 figcaption {
     text-align: center;
+    background-color: lightcyan;
 }
 
 .img-portfólio {
