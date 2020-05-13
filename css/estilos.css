@@ -31,7 +31,7 @@ body {
 }
 
 header {
-    height: 50vh;
+    height: 80vh;
     display: flex;
     justify-content: space-around;
     /* so funciona por causa do flex */
